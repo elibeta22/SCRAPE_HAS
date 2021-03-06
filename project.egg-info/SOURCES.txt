@@ -1,0 +1,13 @@
+setup.py
+HelpAStudent_Scrapy/__init__.py
+HelpAStudent_Scrapy/items.py
+HelpAStudent_Scrapy/middlewares.py
+HelpAStudent_Scrapy/pipelines.py
+HelpAStudent_Scrapy/settings.py
+HelpAStudent_Scrapy/spiders/__init__.py
+HelpAStudent_Scrapy/spiders/has_schools.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
